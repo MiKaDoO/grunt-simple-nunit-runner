@@ -18,4 +18,4 @@ grunt.initConfig({
 
 ## Continuous testing flow 
 
-Some samples are available [here](https://github.com/MiKaDoO/grunt-simple-nunit-runner)
+Some samples are available [here](https://github.com/MiKaDoO/sample-grunt-simple-nunit-runner)
